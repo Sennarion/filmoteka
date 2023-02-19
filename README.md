@@ -1,1 +1,1 @@
-JS team project
+A website designed to help users easily find movies to watch. The site includes recommendations for trending movies, search functionality by keyword, and detailed information about each movie. Additionally, users can add movies to their personal library. As a developer, my role included working with server requests and rendering the content on the site.
